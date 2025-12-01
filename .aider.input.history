@@ -14,3 +14,9 @@
 +```
 +
 +Generate an app logo and update the app metadata title and description.
+
+# 2025-12-01 06:06:27.369933
++Create a simple to-do list app with buttons to add the task, ask for that subject name so it will be separated, also ask for the deadline(month,date,year and time), mark as complete, and delete tasks. Use a clean layout and store tasks locally so they don’t disappear when the app restarts. 
+
+# 2025-12-01 06:06:27.372054
++Create a simple to-do list app with buttons to add the task, ask for that subject name so it will be separated, also ask for the deadline(month,date,year and time), mark as complete, and delete tasks. Use a clean layout and store tasks locally so they don’t disappear when the app restarts. 
